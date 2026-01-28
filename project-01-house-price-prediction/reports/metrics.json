@@ -1,5 +1,5 @@
 {
-  "model_path": "models/linear_pipeline.joblib",
-  "mae": 0.5332001304956565,
-  "rmse": 0.7455813830127761
+  "model_path": "models/rf_pipeline.joblib",
+  "mae": 0.32648256791828195,
+  "rmse": 0.5032758727247028
 }
