@@ -1,0 +1,5 @@
+{
+  "model_path": "models/linear_pipeline.joblib",
+  "mae": 0.5332001304956565,
+  "rmse": 0.7455813830127761
+}

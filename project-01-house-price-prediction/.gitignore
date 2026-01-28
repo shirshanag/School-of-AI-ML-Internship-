@@ -1,0 +1,16 @@
+# Environment and System Files (STAY IGNORED)
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Data and Reports (STAY IGNORED)
+data/
+reports/figures/
+*.png
+
+# Models (REMOVE THESE FROM IGNORE)
+# You want these on GitHub so your predict script works!
+# !models/
+# !*.joblib
